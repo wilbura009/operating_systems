@@ -1,6 +1,6 @@
 ---
 name: process-scheduler
-description: A CLI program simulates process scheduling.
+description: A CLI program that simulates process scheduling.
 ---
 
 ## Usage
