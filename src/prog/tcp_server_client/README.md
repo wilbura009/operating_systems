@@ -5,13 +5,13 @@ description: A CLI program that which allows communication between a client and 
 
 The following are valid Employee ID's:
 
-afg994
-uti804
-ofp667
-diy852
-bfg277
-bff954
-grp116
-mee065
-yuo826
-zed219
+- afg994
+- uti804
+- ofp667
+- diy852
+- bfg277
+- bff954
+- grp116
+- mee065
+- yuo826
+- zed219
