@@ -1,6 +1,6 @@
 ---
 name: tcp_server_client
-description: A CLI program that which allows communication between a client and server. Uses TCP and sockets.
+description: A CLI program that allows communication between a client and server. It uses TCP and sockets.
 ---
 
 The following are valid Employee ID's:

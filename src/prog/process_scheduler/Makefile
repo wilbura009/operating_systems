@@ -21,7 +21,7 @@ endef
 README := README.md
 META_DASH := ---
 META_NAME := name: process-scheduler
-META_DESCRIPTION := description: A CLI program simulates process scheduling.
+META_DESCRIPTION := description: A CLI program that simulates process scheduling.
 
 
 .PHONY: all clean build test-FIFO test-SJF test-PR test-RR
