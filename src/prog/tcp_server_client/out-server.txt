@@ -1,0 +1,83 @@
+wb@fox01:~/wb-final$ ./server 1234
+[SERVER] - Listening for client on port: 1234 ...
+[SERVER] - Accepted client connection from: 10.100.240.201, port 50688
+
+[SERVER] - Parent proc. continuing to listen for client requests, PID: 7956
+[SERVER] - Forked child proc. to handle client request, PID: 8027
+
+[SERVER] - Received client request: STOP
+
+[SERVER] - Received STOP command from client.
+[SERVER] - Child proc. exited with status: 0
+[SERVER] - Parent proc. continuing to listen for client requests, PID: 7956
+[SERVER] - Accepted client connection from: 10.100.240.201, port 50692
+
+[SERVER] - Parent proc. continuing to listen for client requests, PID: 7956
+[SERVER] - Forked child proc. to handle client request, PID: 8060
+
+[SERVER] - Received client request:
+[SERVER] - Employee not found.
+
+[SERVER] - Child proc. exited with status: 0
+[SERVER] - Parent proc. continuing to listen for client requests, PID: 7956
+[SERVER] - Accepted client connection from: 10.100.240.201, port 50696
+
+[SERVER] - Parent proc. continuing to listen for client requests, PID: 7956
+[SERVER] - Forked child proc. to handle client request, PID: 8094
+
+[SERVER] - Received client request: zed219
+[SERVER] - Sent response to client -> [SERVER] - Karren 22428.00
+
+[SERVER] - Child proc. exited with status: 0
+[SERVER] - Parent proc. continuing to listen for client requests, PID: 7956
+[SERVER] - Accepted client connection from: 10.100.240.201, port 50702
+
+[SERVER] - Parent proc. continuing to listen for client requests, PID: 7956
+[SERVER] - Forked child proc. to handle client request, PID: 8221
+
+[SERVER] - Received client request: uti804
+[SERVER] - Sent response to client -> [SERVER] - Hugh 54432.00
+
+[SERVER] - Child proc. exited with status: 0
+[SERVER] - Parent proc. continuing to listen for client requests, PID: 7956
+[SERVER] - Accepted client connection from: 10.100.240.201, port 50708
+
+[SERVER] - Parent proc. continuing to listen for client requests, PID: 7956
+[SERVER] - Forked child proc. to handle client request, PID: 8333
+
+[SERVER] - Received client request: ofp667
+[SERVER] - Sent response to client -> [SERVER] - Robbi 9508.00
+
+[SERVER] - Child proc. exited with status: 0
+[SERVER] - Parent proc. continuing to listen for client requests, PID: 7956
+[SERVER] - Accepted client connection from: 10.100.240.201, port 50712
+
+[SERVER] - Parent proc. continuing to listen for client requests, PID: 7956
+[SERVER] - Forked child proc. to handle client request, PID: 8374
+
+[SERVER] - Received client request: STOP
+
+[SERVER] - Received STOP command from client.
+[SERVER] - Child proc. exited with status: 0
+[SERVER] - Parent proc. continuing to listen for client requests, PID: 7956
+[SERVER] - Accepted client connection from: 10.100.240.201, port 50716
+
+[SERVER] - Parent proc. continuing to listen for client requests, PID: 7956
+[SERVER] - Forked child proc. to handle client request, PID: 8401
+
+[SERVER] - Received client request: bfg227
+[SERVER] - Employee not found.
+
+[SERVER] - Child proc. exited with status: 0
+[SERVER] - Parent proc. continuing to listen for client requests, PID: 7956
+[SERVER] - Accepted client connection from: 10.100.240.201, port 50722
+
+[SERVER] - Parent proc. continuing to listen for client requests, PID: 7956
+[SERVER] - Forked child proc. to handle client request, PID: 8659
+
+[SERVER] - Received client request: bfg277
+[SERVER] - Sent response to client -> [SERVER] - Marna 26617.00
+
+[SERVER] - Child proc. exited with status: 0
+[SERVER] - Parent proc. continuing to listen for client requests, PID: 7956
+^C
